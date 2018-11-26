@@ -10,4 +10,5 @@ public class Poisson extends Animal {
 	public String toString() {
 		return "Poisson [nom=" + nom + ", type=" + type + ", regimeAlimentaire=" + regimeAlimentaire + "]\n";
 	}
+	
 }
